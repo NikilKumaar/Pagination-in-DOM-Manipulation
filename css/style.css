@@ -1,0 +1,25 @@
+#title {
+    text-align: center;
+    color: brown;
+}
+
+#description {
+    text-align: center;
+    font-size:xx-large;
+    color:yellowgreen;
+}
+
+button:hover
+{
+    background-color: brown;
+}
+
+button:active
+{
+    background-color: black;
+}
+
+button:focus
+{
+    background-color: yellowgreen;
+}
